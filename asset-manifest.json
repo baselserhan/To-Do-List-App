@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/To-Do-List-App/static/js/main.ede4606e.chunk.js",
+    "main.js.map": "/To-Do-List-App/static/js/main.ede4606e.chunk.js.map",
+    "runtime-main.js": "/To-Do-List-App/static/js/runtime-main.a4d596fc.js",
+    "runtime-main.js.map": "/To-Do-List-App/static/js/runtime-main.a4d596fc.js.map",
+    "static/js/2.3b00e69d.chunk.js": "/To-Do-List-App/static/js/2.3b00e69d.chunk.js",
+    "static/js/2.3b00e69d.chunk.js.map": "/To-Do-List-App/static/js/2.3b00e69d.chunk.js.map",
+    "index.html": "/To-Do-List-App/index.html",
+    "precache-manifest.25b6f7b46303a1ae04f4d9dad30fa3aa.js": "/To-Do-List-App/precache-manifest.25b6f7b46303a1ae04f4d9dad30fa3aa.js",
+    "service-worker.js": "/To-Do-List-App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4d596fc.js",
+    "static/js/2.3b00e69d.chunk.js",
+    "static/js/main.ede4606e.chunk.js"
+  ]
+}
